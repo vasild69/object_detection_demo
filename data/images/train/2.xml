@@ -12,63 +12,63 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>coldzera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>124</ymin>
+			<xmax>421</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FalleN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>123</ymin>
+			<xmax>557</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>draken</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>628</xmin>
-			<ymin>66</ymin>
-			<xmax>695</xmax>
-			<ymax>89</ymax>
+			<xmin>707</xmin>
+			<ymin>124</ymin>
+			<xmax>780</xmax>
+			<ymax>149</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>REZ</name>
+		<name>headshot</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>651</xmin>
-			<ymin>134</ymin>
-			<xmax>692</xmax>
-			<ymax>156</ymax>
+			<xmin>663</xmin>
+			<ymin>118</ymin>
+			<xmax>700</xmax>
+			<ymax>155</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Lekr0</name>
+		<name>AK47</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>687</xmin>
-			<ymin>197</ymin>
-			<xmax>740</xmax>
-			<ymax>224</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>GeT_RiGhT</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>649</xmin>
-			<ymin>264</ymin>
-			<xmax>740</xmax>
-			<ymax>288</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>f0rest</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>639</xmin>
-			<ymin>329</ymin>
-			<xmax>693</xmax>
-			<ymax>352</ymax>
+			<xmin>564</xmin>
+			<ymin>118</ymin>
+			<xmax>661</xmax>
+			<ymax>154</ymax>
 		</bndbox>
 	</object>
 </annotation>
