@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>16.jpg</filename>
-	<path>C:/Users/vasil/Desktop/CSGO/data/test/16.jpg</path>
+	<path>C:/GITHUB/object_detection_demo/data/images/train/16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
